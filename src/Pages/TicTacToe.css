@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* .fullbodytic
+{
+    background-color: antiquewhite;
+} */
+.title
+{
+    text-align: center;
+    color: magenta;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+.status
+{
+    font-size: 3.5rem;
+    text-align: center;
+}
+.maindiv
+{
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 100px 100px 100px;
+    margin-top : 1%;
+    justify-content: center;
+    gap: 10px;
+}
+.btnstyle
+{
+    margin-top: 5%;
+    height: 100px   ;
+    width: 100%;
+    background: gray;
+    border: solid magenta;
+}
